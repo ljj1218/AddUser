@@ -1,0 +1,17 @@
+body {
+    width: 800px;
+}
+table{
+    border: 2px solid black;
+}
+
+th{
+    padding: 2px 12px;
+}
+
+#form{
+    width: 30%;
+    text-align: right;
+    display: block;
+    margin: 20px 0;
+}
